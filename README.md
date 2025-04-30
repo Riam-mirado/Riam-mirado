@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey there, I'm Mirado Riambatosoa!
 
-<!--
-**Riam-mirado/Riam-mirado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at ISPM Antsobolo
+📍 Based in Madagascar  
+🧑‍🏫 High school Math & Physics teacher  
+🎬 Huge fan of pop culture, movies, stand-up, and rap  
+🛠️ Passionate about coding, survival topics, and self-improvement
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, JavaScript, Kotlin, C#, HTML, CSS, LaTeX
+- **Frameworks / Libraries**: React, Vite, Tailwind CSS, .NET, Flask, NumPy, Pandas, Matplotlib, Chart.js
+- **Dev Tools**: Git, GitHub, VS Code, Android Studio, Postman, Figma, Draw.io, Jupyter Notebook
+- **Database / Backend**: Firebase, SQL, SQLite, MongoDB (basics), Node.js (basics)
+
+## 🚧 Currently Working On
+
+- 📊 A savings app using differential equations + Runge-Kutta algorithm  
+- 🧭 A scouting code learning app (Morse & Semaphore)  
+
+## 🌱 Goals
+
+- Build useful and educational projects  
+- Document my learning journey  
+- Collaborate with devs and science enthusiasts worldwide
+
+## 📫 Reach Me
+ 
+- Email: rarimirado@gmail.com
+
+---
+
+> *"Understand the world better to code it better."*
