@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RANDRIANARIVELO Riambatosoa Mirado</h1>
-<h3 align="center">IT student in ISPM antsobolo and now in 42 Antananarivo too</h3>
+<h3 align="center">IT student in ISPM antsobolo and now in 42 Antananarivo too, I am a backend developer passionate about APIs, algorithms, and AI </h3>
 
 💫 About Me:
 🔭 I’m currently working on ... <br>👯 I’m looking to collaborate on ... <br>🤝 I’m looking for help with ... <br>🌱 I’m currently learning ... <br>💬 Ask me about ...<br>⚡ Fun fact ...
