@@ -39,22 +39,3 @@ const mirado = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-
-## 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Riam-mirado&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riam-mirado&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-MiradoRiambatosoa-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/MiradoRiambatosoa)
-&nbsp;·&nbsp;
-*"Clean code is not about perfection — it's about care."*
-
-</div>
